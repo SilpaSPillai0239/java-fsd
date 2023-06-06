@@ -1,0 +1,20 @@
+[
+  {
+    "patientis": 1,
+    "recordedtime": "2023-06-04 16:33:37",
+    "bplow": 80,
+    "bphigh": 120
+  },
+  {
+  	"patientis": 2,
+    "recordedtime": "2023-06-04 16:33:37",
+    "bplow": 90,
+    "bphigh": 130
+  },
+  {
+  	"patientis": 3,
+    "recordedtime": "2023-06-04 16:33:37",
+    "bplow": 80,
+    "bphigh": 120
+  }
+]
