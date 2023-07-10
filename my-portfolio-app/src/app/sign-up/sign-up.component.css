@@ -1,0 +1,45 @@
+.custom-jumbotron {
+  margin: 25px;
+  text-align: center;
+  padding: 5% 20%;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.custom-jumbotron h2 {
+  margin-top: 0;
+}
+
+.custom-jumbotron p {
+  margin-bottom: 20px;
+}
+
+.container {
+  margin-bottom: 15px;
+}
+
+.container p {
+  margin: 0;
+}
+
+input[type="text"],
+input[type="password"] {
+  padding: 5px;
+  margin-left: 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.btn {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}

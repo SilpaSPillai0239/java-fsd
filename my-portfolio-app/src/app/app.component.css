@@ -1,0 +1,24 @@
+.custom-container {
+    padding: 10px;
+    align-self: center;
+  }
+  
+  .custom-navbar {
+    display: flex;
+    
+    align-items: center;
+  }
+  
+  .custom-button {
+    background-color: #F5F5F5;
+    color: #333333;
+    border: 1px solid #CCCCCC;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .custom-button:hover {
+    background-color: #CCCCCC;
+  }
+  
